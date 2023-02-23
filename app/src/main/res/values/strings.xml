@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EighthSessionBeginnerArtist1.1</string>
+    <string name="start_new">Новое</string>
+    <string name="brush">Кисть</string>
+    <string name="erase">Стирание</string>
+    <string name="save">Сохранить</string>
+    <string name="paint">Краска</string>
+    <string name="sml">Малая</string>
+    <string name="med">Средняя</string>
+    <string name="lrg">Большая</string>
+</resources>
